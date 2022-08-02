@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joergoyen
 - 👀 I’m interested in connected communication 
-- 🌱 I’m currently learning github
+- 🌱 I’m currently improving my GitHub skill by using Github possibilities
 - 💞️ I’m looking to collaborate on connected communication
 - 📫 How to reach me https://www.linkedin.com/in/joergoyen/
 
