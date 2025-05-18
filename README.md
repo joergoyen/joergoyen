@@ -11,7 +11,10 @@
 🚀 Selected projects:  
 - 🧩 Quick T9 – a Chrome extension for fast, structured prompting  
 - 🌍 AI Literacy Matrix – assessing and guiding AI maturity in education  
-- 🗺 MCP – Modular Communication Patterns for agile co-creation  
+- 🗺 **MCP – Model Context Protocol**: a conceptual interface between applications and language models.  
+  It structures prompts, roles, and context for more reliable AI-supported communication –  
+  used across tools like Quick T9 and educational AI-sprints. Think of it as a language layer for generative systems, like REST for web services.
+ 
 - 🧰 The Prompt Experience Board – a toolkit for adaptive, contextual prompting
 
 📚 I'm also a university lecturer, L&D designer, and learning architect.
