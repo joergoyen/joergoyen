@@ -1,22 +1,37 @@
-### 👋 Hi, I'm Jörg Oyen – aka @joergoyen
+# Jörg Oyen · @joergoyen
 
-🔍 I build tools and frameworks for connected thinking, learning and AI-assisted decision-making.
+Ich mache Kisten durchsichtig.
 
-🧠 My focus:  
-- Bridging analog and digital communication  
-- Designing interfaces between people, processes and AI  
-- Sprint-based learning architectures with structure, feedback and reflection  
-- Using GPT, Firebase, and low-code tools for prototypes and concept validation
+Seit 1986 — von PageMaker bis Prompt Engineering —
+baue ich Brücken zwischen Disziplinen, Werkzeugen und Menschen.
+Nicht als Übersetzer. Als jemand, der die Struktur dahinter sichtbar macht.
 
-🚀 Selected projects:  
-- 🧩 Quick T9 – a Chrome extension for fast, structured prompting  
-- 🌍 AI Literacy Matrix – assessing and guiding AI maturity in education  
-- 🗺 **MCP – Model Context Protocol**: a conceptual interface between applications and language models.  
-  It structures prompts, roles, and context for more reliable AI-supported communication –  
-  used across tools like Quick T9 and educational AI-sprints. Think of it as a language layer for generative systems, like REST for web services.
- 
-- 🧰 The Prompt Experience Board – a toolkit for adaptive, contextual prompting
+## Womit ich arbeite
 
-📚 I'm also a university lecturer, L&D designer, and learning architect.
+- **Lernarchitektur** — 7-Sprint-Modell, Hochschule Macromedia seit 2012
+- **Database Publishing & KI** — von InBetween (1994) bis Custom GPTs (2024)
+- **Agile Methoden** — PSM I+II, PSPO, PRINCE2, Scrumtisch Köln, Lean Coffee Düsseldorf
+- **Tools & Prototypen** — tuesday.lab, Quick T9, Osborn App, CommitCheck, 6936.de
+
+## Ausgewählte Projekte
+
+| Projekt | Was es ist |
+|---|---|
+| [tuesday.lab](https://6936.de/tuesday.lab/) | Modulares Workshop-Tool — Folien durch Entscheidungsräume ersetzt |
+| [Quick T9](https://6936.de/t9) | Chrome Extension für strukturierte Promptarbeit |
+| [Osborn App](https://joergoyen.github.io/osborn/) | 8 Kreativfragen als digitales Tool |
+| [CommitCheck](https://6936.de/cc) | Digitale Verbindlichkeit in Teams sichtbar machen |
+
+## Identity Graph
+
+Alles hängt zusammen — 1982 bis heute, sechs Kernthemen, ein Bogen.
+
+→ **[joerg.oyen.de/graph/](https://joerg.oyen.de/graph/)** — Dreieck-Übersicht  
+→ **[joerg.oyen.de/graph/explore/](https://joerg.oyen.de/graph/explore/)** — Vollständiger Graph
+
+---
+
+[LinkedIn](https://linkedin.com/in/joergoyen) · [joerg.oyen.de](https://joerg.oyen.de) · [6936.de](https://6936.de)
+
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/joergoyen/) | [Project Atlas](https://projekte.oyen.de/)
