@@ -1,4 +1,4 @@
-# Jörg Oyen · @joergoyen
+# Jörg Oyen · Habitat Jörg Oyen
 
 Ich mache Kisten durchsichtig.
 
@@ -8,30 +8,32 @@ Nicht als Übersetzer. Als jemand, der die Struktur dahinter sichtbar macht.
 
 ## Womit ich arbeite
 
-- **Lernarchitektur** — 7-Sprint-Modell, Hochschule Macromedia seit 2012
+- **Lernarchitektur** — 7-Sprint-Modell; Lehre an der Hochschule Macromedia seit 2012 (aktuell: Layout & Typografie, Technologies Lab mit Blender/3D)
 - **Database Publishing & KI** — von InBetween (1994) bis Custom GPTs (2024)
-- **Agile Methoden** — PSM I+II, PSPO, PRINCE2, Scrumtisch Köln, Lean Coffee Düsseldorf
-- **Tools & Prototypen** — tuesday.lab, Quick T9, Osborn App, CommitCheck, 6936.de
+- **Agile Methoden & Innovation** — PSM I+II, PSPO, PRINCE2, AI-Empowered SAFe Agilist (2026), Open Innovation; Scrumtisch Köln, Lean Coffee Düsseldorf
+- **Tools & Prototypen** — selbst gehostet, schlank, im Alltag erprobt
 
 ## Ausgewählte Projekte
 
 | Projekt | Was es ist |
 |---|---|
 | [tuesday.lab](https://6936.de/tuesday.lab/) | Modulares Workshop-Tool — Folien durch Entscheidungsräume ersetzt |
-| [Quick T9](https://6936.de/t9) | Chrome Extension für strukturierte Promptarbeit |
-| [Osborn App](https://joergoyen.github.io/osborn/) | 8 Kreativfragen als digitales Tool |
+| [Quick T9](https://6936.de/t9) | Chrome-Erweiterung für strukturierte Promptarbeit |
+| [Osborn App](https://joergoyen.github.io/osborn/) · [Code](https://github.com/joergoyen/osborn) | 8 Kreativfragen als digitales Tool |
 | [CommitCheck](https://6936.de/cc) | Digitale Verbindlichkeit in Teams sichtbar machen |
+| [A-B-C Folders](https://github.com/joergoyen/a-b-c_folders_modern) | Ordnerstruktur für Cloud-Ablagen — schneller aufräumen, schneller wiederfinden |
+
+## Haltung
+
+Digitale Souveränität: Meine Werkzeuge laufen auf eigener Infrastruktur unter [6936.de](https://6936.de). GitHub ist für mich Werkstatt und Schaufenster, nicht der Ort, an dem alles liegt.
 
 ## Identity Graph
 
 Alles hängt zusammen — 1982 bis heute, sechs Kernthemen, ein Bogen.
 
-→ **[joerg.oyen.de/graph/](https://joerg.oyen.de/graph/)** — Dreieck-Übersicht  
+→ **[joerg.oyen.de/graph/](https://joerg.oyen.de/graph/)** — Dreieck-Übersicht
 → **[joerg.oyen.de/graph/explore/](https://joerg.oyen.de/graph/explore/)** — Vollständiger Graph
 
 ---
 
-[LinkedIn](https://linkedin.com/in/joergoyen) · [joerg.oyen.de](https://joerg.oyen.de) · [6936.de](https://6936.de)
-
-
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/joergoyen/) | [Project Atlas](https://projekte.oyen.de/)
+[LinkedIn](https://www.linkedin.com/in/joergoyen/) · [joerg.oyen.de](https://joerg.oyen.de) · [6936.de](https://6936.de) · [myProjectLiteracy](https://projekte.oyen.de/)
